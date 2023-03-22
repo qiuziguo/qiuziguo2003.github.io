@@ -2,7 +2,7 @@
 
 Welcome to the World Cultural Heritage in Danger website! This project aims to raise awareness about the cultural heritage sites that are at risk due to various factors such as climate change, conflicts, and neglect. Our website features images, data visualizations, and information on these endangered sites to help spread knowledge and inspire action to protect our shared heritage.
 
-![Cultural Heritage Header](images/header.jpg)
+![Cultural Heritage Header](https://drive.google.com/file/d/1LAAU8Q_PZwbDNWURbVrJTPstZG2p8d8r/view?usp=sharing)
 
 ## Table of Contents
 
